@@ -4,7 +4,7 @@
 Тренировочный датасет: `out/train`  
 
 Вывод программы:  
-```python3
+```
 - in To o rTTnTT
 nrL in yoo TyTIT
 oynhon inIOTTITInr
@@ -14,7 +14,7 @@ Iononnn ion in I-Tn
 ```  
 Пример:  
 ![2](https://user-images.githubusercontent.com/46486971/155731150-c5fe830f-1844-4cd7-8cb0-725a572758d4.png)
-== ```Lro in Lonn```  
+== ```oynhon inIOTTITInr```  
 
 **Проблемы:**  
 *  Расстояние между словами (пробел) строго задан
